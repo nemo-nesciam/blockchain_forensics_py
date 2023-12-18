@@ -108,7 +108,7 @@ In summary, while all three activities involve cyclical patterns of money transf
 
 ---
 
-[Identification of token contracts on Ethereum: standard compliance and beyond](https://link.springer.com/article/10.1007/s41060-021-00281-1)
+# [Identification of token contracts on Ethereum: standard compliance and beyond](https://link.springer.com/article/10.1007/s41060-021-00281-1)
 
 Review of a comprehensive method for detecting and classifying Ethereum token contracts, focusing on both ERC-compliant and non-compliant tokens. The approach involves several key techniques:
 
