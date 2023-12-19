@@ -1,0 +1,7 @@
+#--------------- WALLETS ---------------#
+TARGET_ADDRESS_1 = "0xFC69FbCBe324F09bE7A8dd1b9078173A46bAa317"
+
+
+
+#--------------- CONTRACTS ---------------#
+CHAINLINK_TOKEN_CONTRACT = "0x514910771AF9Ca656af840dff83E8264EcF986CA"
