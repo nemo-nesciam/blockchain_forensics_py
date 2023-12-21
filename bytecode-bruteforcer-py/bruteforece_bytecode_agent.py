@@ -1,6 +1,8 @@
 import re, requests
 from colorama import Fore, Back, Style
 
+# FUNCTION SIG SOURCES 
+
 # https://openchain.xyz/
 # https://www.etherface.io/hash
 
