@@ -1,6 +1,6 @@
 from web3 import Web3
 import os
-import json 
+from web3 import Web3
 from colorama import Fore, Back, Style
 from dotenv import load_dotenv
 
@@ -19,3 +19,12 @@ v, r, s = split_signature(signature)
 print(f'{Fore.BLUE}"v:", v')
 print(f'{Fore.YELLOW}"r:", hex(r)')
 print(f'{Fore.LIGHTBLUE_EX}"s:", hex(s)')
+
+
+# function_hash = tx['input'][0:10]
+# address = tx['input'][34:74]
+# value= tx['input'][74:]
+
+# print(f'function_hash: {function_hash}')
+# print(f'address: {address}')
+# print(f'value: {w3.toInit(hexstr=value)/10**decimals}')
